@@ -13,12 +13,14 @@
     </style>
 <body bgcolor="blue">
 
-   <h1> <ul>
-    <li>Nama : Saskia Norma Agustina</li>
-    <li>Tempat,Tgl,Lahir : Batang, 17 Agustus 2003</li>
-    <li>Alamat : Ds.Surodadi Dk.Ringinsari, Kec.Gringsing, Kab.Batang</li>
-    <li>Sekolah : SMK Muhammadiyah 1 Weleri</li>
-    <li>Jurusan : RPL</li>
-    </ul></h1>
+   <h1> 
+        <ul>
+            <li>Nama : Saskia Norma Agustina</li>
+            <li>Tempat,Tgl,Lahir : Batang, 17 Agustus 2003</li>
+            <li>Alamat : Ds.Surodadi Dk.Ringinsari, Kec.Gringsing, Kab.Batang</li>
+            <li>Sekolah : SMK Muhammadiyah 1 Weleri</li>
+            <li>Jurusan : RPL</li>
+        </ul>
+    </h1>
 </body>
 </html>

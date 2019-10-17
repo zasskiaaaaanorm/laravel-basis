@@ -65,12 +65,19 @@ Route::get('/', function () {
 //     return redirect('buah');
 // });
 
-Route::get('/Makanan', 'MakananController@index');
+// Route::get('/Makanan', 'MakananController@index');
 
-Route::get('/Sekolah', 'SekolahController@index');
+// Route::get('/Sekolah', 'SekolahController@index');
 
-Route::get('/Buah', 'BuahController@index');
+// Route::get('/Buah', 'BuahController@index');
 
-Route::get('/Hewan', 'HewanController@index');
+// Route::get('/Hewan', 'HewanController@index');
 
-Route::get('/Profil', 'ProfilController@index');
+// Route::get('/Profil', 'ProfilController@index');
+
+
+
+Route::get('/Barang', 'BarangController@index');
+Route::get('/Katagori', 'KatagoriController@index');
+Route::get('/Satuan', 'SatuanController@index');
+Route::get('/Users', 'UsersController@index');
